@@ -3,5 +3,5 @@
 import "./css/main.scss";
 
 // Say hello
-console.log("🦊 hi! edit me in src/index.js");
+console.log("🦊 hello! edit this src/index.js");
 hi
